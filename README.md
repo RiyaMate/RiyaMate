@@ -1,1 +1,15 @@
-Hi, I'm Riya! 👋 I am a passionate about AI/ML , and software development, with expertise in AI-driven tools, cloud technologies, and DevOps. Currently pursuing my Master's in Management Information Systems at Northeastern University, I hold a Bachelor's in Computer Engineering from Vishwakarma Institute of Technology. My experience includes working as an AI Intern at NVIDIA, and as an Associate Software Engineer at Veritas Technologies, optimizing system security and developing microservices. I have contributed to AI-driven projects, including Generative AI Agentic Systems, Deep Learning, and CI/CD Security Automation. Proficient in Python, C++, AWS, Docker, Kubernetes, and NLP, I focus on building intelligent automation solutions. Let's connect and build something amazing! 🚀
+AI/ML & Software Development Enthusiast with a strong focus on intelligent automation solutions
+
+M.S. in Management Information Systems at Northeastern University
+
+B.E. in Computer Engineering from Vishwakarma Institute of Technology
+
+AI Intern – NVIDIA: drove Generative AI agentic systems and deep-learning initiatives
+
+Associate Software Engineer – Veritas Technologies: optimized system security, built microservices, implemented CI/CD security automation
+
+Technical toolkit: Python, C++, NLP, AWS, Docker, Kubernetes, DevOps , SLURM , Data Engineering Pipelines
+
+Passionate about building AI-driven tools, cloud platforms, and scalable DevOps pipelines
+
+Ready to collaborate and create impactful, cutting-edge solutions 🚀
