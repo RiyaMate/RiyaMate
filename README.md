@@ -10,6 +10,6 @@ Associate Software Engineer – Veritas Technologies: optimized system security,
 
 Technical toolkit: Python, C++, NLP, AWS, Docker, Kubernetes, DevOps , SLURM , Data Engineering Pipelines , Full Stack Web Development , Linux , AWS
 
-Passionate about building AI-driven tools, cloud platforms, and scalable DevOps pipelines
+Passionate about building AI-driven tools, cloud platforms,scalable DevOps pipelines , Full Stack Development 
 
 Ready to collaborate and create impactful, cutting-edge solutions 🚀
