@@ -8,7 +8,7 @@ AI Intern – NVIDIA: drove Generative AI agentic systems and deep-learning init
 
 Associate Software Engineer – Veritas Technologies: optimized system security, built microservices, implemented CI/CD security automation
 
-Technical toolkit: Python, C++, NLP, AWS, Docker, Kubernetes, DevOps , SLURM , Data Engineering Pipelines
+Technical toolkit: Python, C++, NLP, AWS, Docker, Kubernetes, DevOps , SLURM , Data Engineering Pipelines , Full Stack Web Development
 
 Passionate about building AI-driven tools, cloud platforms, and scalable DevOps pipelines
 
