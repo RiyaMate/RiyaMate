@@ -4,7 +4,7 @@ M.S. in Management Information Systems at Northeastern University
 
 B.E. in Computer Engineering from Vishwakarma Institute of Technology
 
-AI Intern – NVIDIA: drove Generative AI agentic systems and deep-learning initiatives
+AI Intern – NVIDIA: drove Generative AI agentic systems
 
 Associate Software Engineer – Veritas Technologies: optimized system security, built microservices, implemented CI/CD security automation
 
